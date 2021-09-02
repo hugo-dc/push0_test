@@ -19,7 +19,7 @@ const (
 	PUSH1        = 0x60
 	PUSH32       = 0x7F
 
-	INPUT_FILE = "./test.csv"
+	INPUT_FILE = "/datadisk-slow/accounts-with-code.csv"
 )
 
 // bitvec is a bit vector which maps bytes in a program.
